@@ -18,7 +18,8 @@ git checkout -b branch-name
 ```
 
 * Make your changes (choose from any task below)
-* Commit and push
+*//These changes are made in the branch of the repository that you just created
+* Commit and push(to the master branch of the forked repository)
 
 ```markdown
 git add .
